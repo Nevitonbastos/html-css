@@ -5,6 +5,8 @@ body{
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2? family= Anton & display=swap');
+
 
 *{
     margin: 0px;
@@ -20,7 +22,7 @@ header h1{
     text-align: center;
     color: white;
     font: bold;
-    font-family: 'Kaushan Script', cursive;;
+    font-family: 'Anton', sans-serif ;
     padding-top: 40px;
     font-size: 3em;
     margin: auto;
